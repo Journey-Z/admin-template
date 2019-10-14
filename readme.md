@@ -3,7 +3,7 @@
 
 ## 安装
 
-1. 将项目克隆到本地：git@52.221.152.145:server/pdesk.git
+1. 将项目克隆到本地
 
 2. 执行composer命令：composer update -vvv --no-scripts
 
