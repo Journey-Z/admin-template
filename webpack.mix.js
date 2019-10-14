@@ -16,7 +16,7 @@ let mix = require('laravel-mix');
 mix.copy('resources/assets/plugins/AdminLTE/dist', 'public/assets/adminlte');
 mix.copy('resources/assets/plugins/AdminLTE/plugins', 'public/assets/adminlte/plugins');
 
-mix.copy('resources/assets/plugins/jsTree/dist', 'public/assets/jsTree');
+mix.copy('resources/assets/plugins/jstree/dist', 'public/assets/jstree');
 
 //拷贝看图插件
 mix.copy('resources/assets/plugins/fancybox', 'public/assets/fancybox');
